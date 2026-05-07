@@ -43,4 +43,4 @@
 Use Either of these two:
 --> CamelCase - First word Small, then every next word starts with Capital Letter. Eg- studentName
 --> snake*case - All words are in small letters, and you use* (underscore) to separate them.
-Eg- student_name;
+Eg- student_name; student_age
